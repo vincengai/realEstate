@@ -4,7 +4,7 @@ import React from 'react'
 const AgentCard = ( {name, image, description, title}) => {
   return (
     <Box 
-      backgroundCOlor="f1f1f14a" 
+      backgroundColor="f1f1f14a" 
       padding="2rem" 
       display="flex" 
       flexDirection='column'
